@@ -1,0 +1,78 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Codename: polaris-devel
+Date: Mon, 20 May 2024 11:04:56 UTC
+Architectures: amd64
+Components: main contrib non-free
+MD5Sum:
+ 55ab77eeab6610b87da5d39087c95f5e 25216 main/binary-amd64/Packages
+ 51d85d5ca5f55844a78fc0a6a845681b 6087 main/binary-amd64/Packages.gz
+ 063287201b2354699acfe229a752201d 36 main/binary-amd64/Release
+ d41d8cd98f00b204e9800998ecf8427e 0 main/source/Sources
+ 7029066c27ac6f5ef18d660d5741979a 20 main/source/Sources.gz
+ 92f9b0ec8b2656847b612632542f1735 37 main/source/Release
+ d41d8cd98f00b204e9800998ecf8427e 0 contrib/binary-amd64/Packages
+ 7029066c27ac6f5ef18d660d5741979a 20 contrib/binary-amd64/Packages.gz
+ 21e46a380626854677b4f15e48077399 39 contrib/binary-amd64/Release
+ d41d8cd98f00b204e9800998ecf8427e 0 contrib/source/Sources
+ 7029066c27ac6f5ef18d660d5741979a 20 contrib/source/Sources.gz
+ 8d4359c1e0695df7981b0054538f35ad 40 contrib/source/Release
+ d41d8cd98f00b204e9800998ecf8427e 0 non-free/binary-amd64/Packages
+ 7029066c27ac6f5ef18d660d5741979a 20 non-free/binary-amd64/Packages.gz
+ c8e104f3e2700fd78b43b93da3bd6bf5 40 non-free/binary-amd64/Release
+ d41d8cd98f00b204e9800998ecf8427e 0 non-free/source/Sources
+ 7029066c27ac6f5ef18d660d5741979a 20 non-free/source/Sources.gz
+ 12a6505c2c63dd6f6c1cc538458f64aa 41 non-free/source/Release
+SHA1:
+ a159e8ee3732f0a3fbf7562fbd58b89e1bb8f4b6 25216 main/binary-amd64/Packages
+ 540c5c7756ba91cd0bb504696f2ee245cd29f898 6087 main/binary-amd64/Packages.gz
+ f9082edea14092794f38390390e06abf8a922f7d 36 main/binary-amd64/Release
+ da39a3ee5e6b4b0d3255bfef95601890afd80709 0 main/source/Sources
+ 46c6643f07aa7f6bfe7118de926b86defc5087c4 20 main/source/Sources.gz
+ 6bf4af37ca3d5dec33f6438d83b5c1483de0833a 37 main/source/Release
+ da39a3ee5e6b4b0d3255bfef95601890afd80709 0 contrib/binary-amd64/Packages
+ 46c6643f07aa7f6bfe7118de926b86defc5087c4 20 contrib/binary-amd64/Packages.gz
+ 540444e2ba50eed843abd0f7c98f2a03736190f3 39 contrib/binary-amd64/Release
+ da39a3ee5e6b4b0d3255bfef95601890afd80709 0 contrib/source/Sources
+ 46c6643f07aa7f6bfe7118de926b86defc5087c4 20 contrib/source/Sources.gz
+ acdc40465a02a06b7734d72f75a4a81c649c9a7d 40 contrib/source/Release
+ da39a3ee5e6b4b0d3255bfef95601890afd80709 0 non-free/binary-amd64/Packages
+ 46c6643f07aa7f6bfe7118de926b86defc5087c4 20 non-free/binary-amd64/Packages.gz
+ 9014acd3cb55ccb187e9562592c60f535ca2f47f 40 non-free/binary-amd64/Release
+ da39a3ee5e6b4b0d3255bfef95601890afd80709 0 non-free/source/Sources
+ 46c6643f07aa7f6bfe7118de926b86defc5087c4 20 non-free/source/Sources.gz
+ 0d33f662301359173dd353f524aa9c9c8b7d1c75 41 non-free/source/Release
+SHA256:
+ afce1b4fd46e05e46e56a40359e21e9ef06ff026760afcecfdb15ee23c1d63f2 25216 main/binary-amd64/Packages
+ e2ab3a14c956b665b045a635d0d7da28ade7b502f14244065b1038a212d44baa 6087 main/binary-amd64/Packages.gz
+ f4aafa353a338baedf9e98523c13d7ffeda979ec3cf745f9fad977dd770595c8 36 main/binary-amd64/Release
+ e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 0 main/source/Sources
+ 59869db34853933b239f1e2219cf7d431da006aa919635478511fabbfc8849d2 20 main/source/Sources.gz
+ 4e2108e8de58972a48b94535ab5f7e553edddf6b18462bf8ba44584b1161a0d9 37 main/source/Release
+ e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 0 contrib/binary-amd64/Packages
+ 59869db34853933b239f1e2219cf7d431da006aa919635478511fabbfc8849d2 20 contrib/binary-amd64/Packages.gz
+ d3365c86c0c42a0175c5a919fa6e443e515f6b8267dbd175f6fc7f2d45338215 39 contrib/binary-amd64/Release
+ e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 0 contrib/source/Sources
+ 59869db34853933b239f1e2219cf7d431da006aa919635478511fabbfc8849d2 20 contrib/source/Sources.gz
+ a438e17a56d31a46b0eb915a71a7e5513e1ee4687a44588e9f41808d648892a6 40 contrib/source/Release
+ e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 0 non-free/binary-amd64/Packages
+ 59869db34853933b239f1e2219cf7d431da006aa919635478511fabbfc8849d2 20 non-free/binary-amd64/Packages.gz
+ b2eac22541357ca7a8aae11036c71006160def239931193adfd9ebaa83ddc43d 40 non-free/binary-amd64/Release
+ e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 0 non-free/source/Sources
+ 59869db34853933b239f1e2219cf7d431da006aa919635478511fabbfc8849d2 20 non-free/source/Sources.gz
+ 519234b57723ee7f9ea962619005b48574a2141faf632290f2c770be60bb1bda 41 non-free/source/Release
+-----BEGIN PGP SIGNATURE-----
+
+iQGzBAEBCgAdFiEEMiWeHvITdfBLnI/HWGwKnXCjkrEFAmZLLlgACgkQWGwKnXCj
+krEMrAv9GmzOFVk3YVIdZgd1lrX0sK6uE9ymxgqeYyZbG+TR+rG7iLxzFs2K3xvw
+z9FmqvkeR+u32Pjc3FeEjgpXDA7bn7vs45AGrFlJRQC3/eqsEtB3XQ24usj5wIwj
+txtfxEJKCcB/st0200sxpcMETxKOIfo9L4+S/4MVlDu4vaFNzq9qf3PTM6ySg/Vf
+6rQ6JSdZh6hJQvzTBwrQZ1oxIVADCxCqDkhaHKTAO8geIhpaso7Ej4xFrJsCj4Xy
+CHMsLdrHgOG4C2i56eDjZcNsWDKtwTu1m3e+wEMqihe5XoNxLlrqddz/G9k4xCsE
+yRjoYXnzdduTdcTFdhiRnAIQqewjpP3Ryet9JacCtPwPf/Buc28ZtdaHfwRzPsZb
+FHPyybA1uBTpatWrRQsAkcnVZcOxSEAtWF15NrMkp61ULmjExgXwZFunjXRXKytV
+p1fbnEPQCEjBlhMPr4zQ1po5kq/m1cRwyuaJSbZh1lptz7P+9D9uc9t1WiF6U0Zx
+Qn6SEoa6
+=5C4h
+-----END PGP SIGNATURE-----

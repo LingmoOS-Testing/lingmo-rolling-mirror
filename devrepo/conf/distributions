@@ -1,0 +1,4 @@
+Codename: polaris-devel
+Architectures: amd64 source
+Components: main contrib non-free
+SignWith: 32259E1EF21375F04B9C8FC7586C0A9D70A392B1
